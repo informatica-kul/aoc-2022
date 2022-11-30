@@ -12,3 +12,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Jonasss              | Rust                        | [link](https://github.com/JonasssC/AoC-Rust/blob/main/src/y2022) |
 | MAAREN               | Rust                        | [link](https://github.com/mhkdepauw/aoc_2022) |
 | Len                  | Javascript                  | [link](https://github.com/LenC08/AoC2022) |
+| Yori                 | Python                      | [link](https://github.com/YoriVerbist/aoc) |
