@@ -15,3 +15,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Yori                 | Python                      | [link](https://github.com/YoriVerbist/aoc) |
 | Fidly                | Rust, Haskell               | [link](https://github.com/benfidlers/AoC) |
 | GetWrecked           | Java                        | [link](https://github.com/MatzHilven/aoc-2022) |
+| NicolasDR            | Python                      | [link](https://g](https://github.com/Nideroo/aoc_202) |
