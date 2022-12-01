@@ -18,3 +18,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | NicolasDR            | Python                      | [link](https://github.com/Nideroo/aoc_2022) |
 | Quevain              | Haskell, (Typescript?)      | [link](https://github.com/KevinVde-dev/aoc-2022) |
 | Seppe Lesschaeve     | Go                          | [link](https://github.com/SeppeLesschaeve/aoc2022) |
+| Erico Cartmanez      | Prolog, (Rust?)             | [link](https://github.com/exur00/aoc2022) |
