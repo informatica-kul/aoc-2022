@@ -21,3 +21,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Erico Cartmanez      | Prolog, (Rust?)             | [link](https://github.com/exur00/aoc2022) |
 | EenAziaat            | Python                      | [link](https://github.com/NickHemerycke/Aoc-2022) |
 | ToxicMushroom        | Rust                        | [link](https://github.com/ToxicMushroom/aoc-2022-rust) |
+| Mmaarten             | Python                      | [link](https://github.com/Mmaarten23/aoc) |
