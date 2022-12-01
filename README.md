@@ -24,3 +24,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Mmaarten             | Python, Java, ...           | [link](https://github.com/Mmaarten23/aoc) |
 | Apkeh                | Python, Java                | [link](https://github.com/Apkeh/AoC-2022) |
 | D1ff1cult            | Javascript                  | [link](https://github.com/d1ff1cult0/aoc2022) |
+| 086                  | Prolog                      | [link](https://github.com/zeroeightysix/aoc-2022) |
