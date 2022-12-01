@@ -15,6 +15,6 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Yori                 | Python                      | [link](https://github.com/YoriVerbist/aoc) |
 | Fidly                | Rust, Haskell               | [link](https://github.com/benfidlers/AoC) |
 | GetWrecked           | Java                        | [link](https://github.com/MatzHilven/aoc-2022) |
-| NicolasDR            | Python                      | [link](https://github.com/Nideroo/aoc_202) |
+| NicolasDR            | Python                      | [link](https://github.com/Nideroo/aoc_2022) |
 | Quevain              | Haskell, (Typescript?)      | [link](https://github.com/KevinVde-dev/aoc-2022) |
 | Seppe Lesschaeve     | Go                          | [link](https://github.com/SeppeLesschaeve/aoc2022) |
