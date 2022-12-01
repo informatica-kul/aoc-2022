@@ -23,3 +23,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | ToxicMushroom        | Rust                        | [link](https://github.com/ToxicMushroom/aoc-2022-rust) |
 | Mmaarten             | Python, Java, ...           | [link](https://github.com/Mmaarten23/aoc) |
 | Apkeh                | Python, Java                | [link](https://github.com/Apkeh/AoC-2022) |
+| D1ff1cult            | Javascript                  | [link](https://github.com/d1ff1cult0/aoc2022) |
