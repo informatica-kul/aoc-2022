@@ -7,7 +7,7 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Discord username     | Language(s)                 | Repository |
 |----------------------|-----------------------------|------------|
 | wtas                 | Prolog, Haskell             | ////////// |
-| wtas                 | Prolog, Haskell             | ////////// |
+| 086                  | Prolog                      | [link](https://github.com/zeroeightysix/aoc-2022) |
 | Erico Cartmanez      | Prolog, (Rust?)             | [link](https://github.com/exur00/aoc2022) |
 | NotAPenguin          | Haskell, (Rust?)            | [link](https://github.com/NotAPenguin0/aoc2022) |
 | Quevain              | Haskell, (Typescript?)      | [link](https://github.com/KevinVde-dev/aoc-2022) |
