@@ -24,5 +24,6 @@ A list of links to repositories with solutions, made by students at the KUL.
 | piploob<3            | Python                      | [link](https://github.com/iremkose38/aoc2022) |
 | Mmaarten             | Python, Java, ...           | [link](https://github.com/Mmaarten23/aoc) |
 | Apkeh                | Python, Java                | [link](https://github.com/Apkeh/AoC-2022) |
+| Jofs                 | Python, (Java?)             | [link](https://github.com/JensNys/aoc2022) |
 | GetWrecked           | Java                        | [link](https://github.com/MatzHilven/aoc-2022) |
 | Seppe Lesschaeve     | Go                          | [link](https://github.com/SeppeLesschaeve/aoc2022) |
