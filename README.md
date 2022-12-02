@@ -11,6 +11,7 @@ A list of links to repositories with solutions, made by students at the KUL.
 | Erico Cartmanez      | Prolog, (Rust?)             | [link](https://github.com/exur00/aoc2022) |
 | NotAPenguin          | Haskell, (Rust?)            | [link](https://github.com/NotAPenguin0/aoc2022) |
 | Quevain              | Haskell, (Typescript?)      | [link](https://github.com/KevinVde-dev/aoc-2022) |
+| Pajamaman            | Haskell                     | [link](https://github.com/pajamaman18/AoC-2022-haskell) |
 | Jonasss              | Rust                        | [link](https://github.com/JonasssC/AoC-Rust) |
 | MAAREN               | Rust                        | [link](https://github.com/mhkdepauw/aoc_2022) |
 | ToxicMushroom        | Rust                        | [link](https://github.com/ToxicMushroom/aoc-2022-rust) |
